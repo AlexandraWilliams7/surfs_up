@@ -15,7 +15,7 @@ Here are 3 key differences between the two months queried:
 - The mininum read for June was 8 degrees higher than the minimum for December. 
 - The month of June has more warmer days than the month of December.
 
-![june_temp_stats](https://user-images.githubusercontent.com/105830665/186795968-aa41f6c6-f889-4ad7-b0f9-21dd6ee50ff1.png
+![june_temp_stats](https://user-images.githubusercontent.com/105830665/186796298-ec662dc9-b9df-4053-a8b3-a262f2f0a468.png)
 
 ![dec_temps_stats](https://user-images.githubusercontent.com/105830665/186796005-8cdb341b-c674-4a39-b498-1ae5d185b28b.png)
 
